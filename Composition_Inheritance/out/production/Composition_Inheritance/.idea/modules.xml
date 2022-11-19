@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccountCustomer/AccountCustomer.iml" filepath="$PROJECT_DIR$/AccountCustomer/AccountCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Author_Book/Author_Book.iml" filepath="$PROJECT_DIR$/Author_Book/Author_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Composition_Inheritance.iml" filepath="$PROJECT_DIR$/.idea/Composition_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomerInvoice/CustomerInvoice.iml" filepath="$PROJECT_DIR$/CustomerInvoice/CustomerInvoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonStudentTeacher_Inheritance/PersonStudentTeacher_Inheritance.iml" filepath="$PROJECT_DIR$/PersonStudentTeacher_Inheritance/PersonStudentTeacher_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointLineTriangleCircle_Inheritance/PointLineTriangleCircle_Inheritance.iml" filepath="$PROJECT_DIR$/PointLineTriangleCircle_Inheritance/PointLineTriangleCircle_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polynomial/Polynomial.iml" filepath="$PROJECT_DIR$/Polynomial/Polynomial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratch/Scratch.iml" filepath="$PROJECT_DIR$/Scratch/Scratch.iml" />
+    </modules>
+  </component>
+</project>
